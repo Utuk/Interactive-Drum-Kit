@@ -1,6 +1,6 @@
 # Interactive-Drum-Kit
 
-This is an interactive drum kit  JavaScript fundamentals. 
+This is an interactive drum kit - focus on developing JavaScript fundamentals. 
 
 I learned how to add event listeners to buttons and keystrokes for tapping or clicking. When the user clicks on the specific image of a drum they will hear the corresponding sound of that drum or they can choose to use the letter that is found on the image of the drum if they want to type on their keyboard instead. 
 
